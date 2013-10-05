@@ -1,5 +1,5 @@
-This program was created during my second year of computer science degree.
-It's a IRC Server, created in 10 weeks, using the Boost libraries.
+This program was created during my 2 year degree in computer science.
+It's an IRC Server, created in 10 weeks, using the Boost libraries.
 
 This program respect the RFC1495, BUT NOT TOTALLY !
 
