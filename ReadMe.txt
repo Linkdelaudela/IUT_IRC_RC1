@@ -1,5 +1,5 @@
 This program was created during my second year of computer science degree.
-It's a IRC Server, created in 10 weeks, using the Boost libraries.
+It's a IRC Server, created in 10 weeks, using the Boost libraries, as a simple "code and forget" project.
 
 This program respect the RFC1495, BUT NOT TOTALLY !
 
